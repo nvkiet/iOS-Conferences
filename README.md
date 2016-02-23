@@ -2,7 +2,7 @@
 A collection of iOS Conferences.
 
 * [WWDC](https://developer.apple.com/wwdc/)
-* [360iDev](http://360idev.com/
+* [360iDev](http://360idev.com/)
 * [CocoaConf](http://cocoaconf.com/)
 * [iOSDevUK](http://www.iosdevuk.com/)
 * [MDevCon](http://mdevcon.com/)
