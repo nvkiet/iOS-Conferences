@@ -1,4 +1,4 @@
-# iOS-Conferences
+# iOS Conferences
 A collection of iOS Conferences.
 
 * [WWDC](https://developer.apple.com/wwdc/)
