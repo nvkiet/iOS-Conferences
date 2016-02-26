@@ -19,3 +19,4 @@ A collection of iOS Conferences.
 * [try! Swift](http://www.tryswiftconf.com/)
 * [Swift Summit](https://www.swiftsummit.com/)
 * [iOSDevCamp](http://www.iosdevcamp.org/)
+* [dotSwift](http://www.dotswift.io/)
